@@ -1,6 +1,9 @@
 # cuda-options-calc
 Using CUDA to explore options pricing and modeling
 
+# Don't sue me
+I am neither proficient with CUDA/C nor am I some sort of market wiz. In fact, this is my first time using CUDA. (I recommend it)
+
 # Early Days
 This is the early days of this project. My goal is to resolve some unanswered questions I have with options and options pricing.
 
